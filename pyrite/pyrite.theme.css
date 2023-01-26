@@ -33,7 +33,7 @@
 /* https://leafyluigi.github.io/discord-themes/pyrite/var-examples.html */
 :root {
   /* URL must be HTTPS and a direct link to the image. You can have a custom background image for the User Popout and the User Modals. */
-  --background-image: url('https://leafyluigi.github.io/images/pexels-josh-sorenson-116359.png');
+  --background-image: url('https://gbf.wiki/images/9/91/Scene_evt190307_31.png');
   --user-modal-image: var(--background-image);
   --user-popout-image: var(--background-image);
   /* Home icon is for the little button in the top left. */
@@ -53,10 +53,14 @@
   /* Secondary is an accent colour of sorts. It's not used as often as Primary. It should be a shade or two lighter or darker compared to Primary. */
   /* Hover is a secondary accent colour of sorts and is often used when hovering over something. Like Secondary, it should be a shade or two lighter or darker compared to Primary. */
   /* Tooltip is used for tooltips. It can whatever colour you wish. */
-  --primary-color: #387eff;
-  --secondary-color: #3298e0;
-  --hover-color: #139dff;
-  --tooltip-color: #1967ab;
+  /* Default was #387eff
+  --primary-color: #ffd138;
+  /* Default was #3298e0
+  --secondary-color: #e0a932;
+  /* Default was #139dff
+  --hover-color: #ffbc13;
+  /* Default was #1967ab
+  --tooltip-color: #ab6219;
 
   /* These colours are used for statues and other coloured things. Ignoring Green they default to Discord's HSL though converted to Hex. */
   /* Green's default here is the old green. The current green is #3ba55d */
