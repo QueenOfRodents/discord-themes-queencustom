@@ -37,7 +37,7 @@
   --user-modal-image: var(--background-image);
   --user-popout-image: var(--background-image);
   /* Home icon is for the little button in the top left. */
-  --home-icon: url('https://leafyluigi.github.io/images/pexels-chris-munnik-2604991.png');
+  --home-icon: url('https://gbf.wiki/images/thumb/b/bd/White_Plume_square.jpg/25px-White_Plume_square.jpg');
 
   /* Image attachment can be "fixed", "scroll" or "local" */
   /* scroll/local attaches the background to the modal completely while fixed keeps it in line with the background */
@@ -99,9 +99,9 @@
 
   /* Toggles. From 0 (disable) to 1 (enable). Anything outside of those values have NOT been tested and likely aren't supported. */
   --hide-speed: 0.5s;
-  --hide-member-list: 1;
-  --hide-active-now: 1;
-  --hide-profile-panel: 1;
+  --hide-member-list: 0;
+  --hide-active-now: 0;
+  --hide-profile-panel: 0;
   --hide-channel-list: 0;
 
   /* Windows Only - How many *pixels* wide the min/max/close buttons should be. */
