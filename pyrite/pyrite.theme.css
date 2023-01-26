@@ -55,7 +55,7 @@
   /* Tooltip is used for tooltips. It can whatever colour you wish. */
   /* Default was #387eff */
   --primary-color: #E9CC84;
-  /* Default was #3298e0 */
+  /* Default was #3298e0 */ #AF831F
   --secondary-color: #AF862D;
   /* Default was #139dff */
   --hover-color: #836012;
@@ -89,9 +89,9 @@
   /* For Advanced Users */
   --code-font: Hack, Monaco, Consolas, Courier, monospace;
   --body-font: Whitney, "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, sans-serif;
-  --background-filter: blur(3px) brightness(80%);
-  --user-modal-filter: blur(3px) brightness(80%);
-  --user-popout-filter: blur(3px) brightness(80%);
+  --background-filter: blur(3px) brightness(70%);
+  --user-modal-filter: blur(3px) brightness(70%);
+  --user-popout-filter: blur(3px) brightness(70%);
 
   /* User Modal Layout sizes. Changing these HAS NOT BEEN TESTED. */
   --user-modal-width: 900px;
